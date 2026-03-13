@@ -1,0 +1,38 @@
+[
+  {
+    "id": "quran_pickthall",
+    "label": "Holy Quran (Pickthall)",
+    "source_type": "quran",
+    "source_format": "json",
+    "pdf_path": "",
+    "file_path": "./data/json/quran_pickthall.json",
+    "ingested": true,
+    "page_count": 6236,
+    "chunk_count": 1248,
+    "added_at": "2026-03-13T00:00:00+00:00"
+  },
+  {
+    "id": "bukhari",
+    "label": "Sahih Bukhari",
+    "source_type": "bukhari",
+    "source_format": "json",
+    "pdf_path": "",
+    "file_path": "./data/json/bukhari.json",
+    "ingested": true,
+    "page_count": 7580,
+    "chunk_count": 2527,
+    "added_at": "2026-03-13T00:00:00+00:00"
+  },
+  {
+    "id": "muslim",
+    "label": "Sahih Muslim",
+    "source_type": "muslim",
+    "source_format": "json",
+    "pdf_path": "",
+    "file_path": "./data/json/muslim.json",
+    "ingested": true,
+    "page_count": 7360,
+    "chunk_count": 2454,
+    "added_at": "2026-03-13T00:00:00+00:00"
+  }
+]
